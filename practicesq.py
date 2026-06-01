@@ -1119,4 +1119,4 @@ while True:
             else:
                 print("Invalid choice, try again")
 
-            staff_choice = input("Hello, what would you like to do today?: ")
+            staff_choice = input("Hello, what would you like to do today? (1,2,3,4,5): ")
